@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Main {
@@ -173,5 +174,5 @@ public class Main {
         System.out.printf("%30sRanks: A's=%6d  B's=%6d  C's=%6d  D's=%6d  F's=%6d%n",
                 "", countA, countB, countC, countD, countF);
         System.out.println("==================================================================================================================================");
-  }
+    }
 }
