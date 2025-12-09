@@ -43,5 +43,6 @@ This Java program is designed to manage student records for a class. It allows u
    javac Main.java
 ```
 ## OUTPUT SAMPLE
+The output is in the uploaded files
 
-![outpup1](https://github.com/user-attachments/assets/62ca5f62-9718-47db-a6a9-c59576670497)
+
